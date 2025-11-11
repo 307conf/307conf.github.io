@@ -1,7 +1,6 @@
 baseURL = 'https://307conf.com.br'
 languageCode = 'pt-br'
 title = '307 Conf | Temporary Security Conference'
-theme = 'noir'
 
 # URL handling
 relativeURLs = true

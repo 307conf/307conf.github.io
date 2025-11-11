@@ -77,6 +77,8 @@ jobs:
           key: hugo-${{ github.run_id }}
           restore-keys:
             hugo-
+      - name: Fetch Hugo modules
+        run: hugo mod get -u ./...
       - name: Build the site
         run: |
           hugo \
