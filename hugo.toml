@@ -22,6 +22,10 @@ disableDefaultLanguageRedirect = true
   [caches.images]
     dir = ':cacheDir/images'
 
+[module]
+  [[module.imports]]
+    path = 'github.com/307conf/hugo-noir'
+
 [params]
 name = "307 Conference"
 location = "São Paulo, Brazil"
