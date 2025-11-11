@@ -1,3 +1,93 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://307conf.com.br'
+languageCode = 'pt-br'
+title = '307 Conf | Temporary Security Conference'
+theme = 'noir'
+
+# URL handling
+relativeURLs = true
+canonifyURLs = true
+
+# language
+defaultContentLanguage = "pt-br"
+defaultContentLanguageInSubdir = false # Creates URLs like /pt-br/blog/
+disableDefaultLanguageRedirect = true
+
+
+# Taxonomy configuration
+[taxonomies]
+  talk = "talks"
+  tag = "tags"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[params]
+name = "307 Conference"
+location = "São Paulo, Brazil"
+description = "Temporary Security Conference"
+
+[languages]
+  [languages.pt-br]
+    languageName = "Português"
+    languageCode = "pt-br"
+    title = "307 Conf | Temporary Security Conference"
+    weight = 1
+    contentDir = "content/pt-br"
+    [languages.pt-br.menu]
+    [[languages.pt-br.menu.main]]
+        name = "Agenda"
+        pageRef = "/agenda"
+        weight = 1
+      [[languages.pt-br.menu.main]]
+        name = "Villages"
+        pageRef = "/villages" # Corresponds to content/en/villages.md or content/en/villages/_index.md
+        weight = 2
+      [[languages.pt-br.menu.main]]
+        name = "Treinamentos"
+        pageRef = "/trainings"
+        weight = 3
+      [[languages.pt-br.menu.main]]
+        name = "CPF"
+        pageRef = "/cpf"
+        weight = 4
+      [[languages.pt-br.menu.main]]
+        name = "Sobre"
+        pageRef = "/about" # Assumes a section named 'about'
+        weight = 5
+      [[languages.pt-br.menu.main]]
+        name = "Ingressos"
+        pageRef = "/tickets"
+        weight = 6
+
+  [languages.en]
+    languageName = "English"
+    languageCode = "en"
+    title = "307 Conf | Temporary Security Conference"
+    weight = 2
+    contentDir = "content/en"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "Agenda"
+        pageRef = "/agenda"
+        weight = 1
+      [[languages.en.menu.main]]
+        name = "Villages"
+        pageRef = "/villages" # Corresponds to content/en/villages.md or content/en/villages/_index.md
+        weight = 2
+      [[languages.en.menu.main]]
+        name = "Trainings"
+        pageRef = "/trainings"
+        weight = 3
+      [[languages.en.menu.main]]
+        name = "CPF"
+        pageRef = "/cpf"
+        weight = 4
+      [[languages.en.menu.main]]
+        name = "About"
+        pageRef = "/about" # Assumes a section named 'about'
+        weight = 5
+      [[languages.en.menu.main]]
+        name = "Tickets"
+        pageRef = "/tickets"
+        weight = 6
