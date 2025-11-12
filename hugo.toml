@@ -51,8 +51,8 @@ description = "Temporary Security Conference"
         pageRef = "/trainings"
         weight = 3
       [[languages.pt-br.menu.main]]
-        name = "CPF"
-        pageRef = "/cpf"
+        name = "Call For Papers"
+        URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
         weight = 4
       [[languages.pt-br.menu.main]]
         name = "Sobre"
@@ -60,7 +60,7 @@ description = "Temporary Security Conference"
         weight = 5
       [[languages.pt-br.menu.main]]
         name = "Ingressos"
-        pageRef = "/tickets"
+        URL = "https://www.eventbrite.com.br/e/307-temporary-security-conference-tickets-1967248486179?aff=siteoficial"
         weight = 6
 
   [languages.en]
@@ -83,8 +83,8 @@ description = "Temporary Security Conference"
         pageRef = "/trainings"
         weight = 3
       [[languages.en.menu.main]]
-        name = "CPF"
-        pageRef = "/cpf"
+        name = "Call For Papers"
+        URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
         weight = 4
       [[languages.en.menu.main]]
         name = "About"
@@ -92,5 +92,5 @@ description = "Temporary Security Conference"
         weight = 5
       [[languages.en.menu.main]]
         name = "Tickets"
-        pageRef = "/tickets"
+        URL = "https://www.eventbrite.com.br/e/307-temporary-security-conference-tickets-1967248486179?aff=siteoficial"
         weight = 6
