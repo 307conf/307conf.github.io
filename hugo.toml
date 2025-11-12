@@ -84,6 +84,7 @@ description = "Temporary Security Conference"
         weight = 3
       [[languages.en.menu.main]]
         name = "Call For Papers"
+        # pageRef = "/cpf"
         URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
         weight = 4
       [[languages.en.menu.main]]
