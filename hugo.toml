@@ -8,8 +8,8 @@ canonifyURLs = true
 
 # language
 defaultContentLanguage = "pt-br"
-defaultContentLanguageInSubdir = false # Creates URLs like /pt-br/blog/
-disableDefaultLanguageRedirect = true
+defaultContentLanguageInSubdir = true # Creates URLs like /pt-br/blog/
+disableDefaultLanguageRedirect = false
 
 
 # Taxonomy configuration
