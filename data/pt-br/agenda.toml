@@ -1,0 +1,25 @@
+[[agenda]]
+speaker = "João Vitor (@keowu)"
+talk = "Ryūjin - Aprendendo o funcionamento interno de ferramentas Bin2Bin para Obfuscação de Binários Windows PE x64"
+period = "13 de Dezembro de 2025"
+logo = "/images/speaker/lorem.png"
+description = "O João Vitor (@keowu) é o primeiro palestrante confirmado da 307 Temporary Security Conference, que acontece nos dias 13 e 14 de dezembro na capital paulistana. Ele é Sr. Security Researcher, atuando com pesquisa de soluções para análises de ameaças, crimes cibernéticos, fraude, lavagem de dinheiro e terrorismo."
+# responsibilities = [
+#     "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+#     "Ut enim ad minim veniam, quis nostrud exercitation",
+#     "Duis aute irure dolor in reprehenderit in voluptate",
+#     "Excepteur sint occaecat cupidatat non proident"
+# ]
+
+# [[agenda]]
+# speaker = "TBD"
+# talk = "Slot 2"
+# period = "13 de Dezembro de 2025"
+# logo = "/images/speaker/ipsum.png"
+# description = "TBD"
+# responsibilities = [
+#     "Sed ut perspiciatis unde omnis iste natus error",
+#     "Nemo enim ipsam voluptatem quia voluptas sit",
+#     "At vero eos et accusamus et iusto odio dignissimos",
+#     "Et harum quidem rerum facilis est et expedita"
+# ]
