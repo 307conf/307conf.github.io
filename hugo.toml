@@ -62,6 +62,10 @@ description = "Temporary Security Conference"
         name = "Ingressos"
         URL = "https://www.eventbrite.com.br/e/307-temporary-security-conference-tickets-1967248486179?aff=siteoficial"
         weight = 6
+      [[languages.pt-br.menu.main]]
+        name = "Sobre"
+        pageRef = "/about" # Assumes a section named 'about'
+        weight = 5
 
   [languages.en]
     languageName = "English"
@@ -95,3 +99,7 @@ description = "Temporary Security Conference"
         name = "Tickets"
         URL = "https://www.eventbrite.com.br/e/307-temporary-security-conference-tickets-1967248486179?aff=siteoficial"
         weight = 6
+      [[languages.en.menu.main]]
+        name = "About"
+        pageRef = "/about" # Assumes a section named 'about'
+        weight = 5
