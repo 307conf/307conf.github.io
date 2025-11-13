@@ -1,6 +1,6 @@
 baseURL = 'https://307conf.com.br'
 languageCode = 'pt-br'
-title = '307 Conf | Temporary Security Conference'
+title = '307 Temporary Security Conference'
 buildFuture = true
 theme = "noir"
 
@@ -13,7 +13,6 @@ defaultContentLanguage = "pt-br"
 defaultContentLanguageInSubdir = true # Creates URLs like /pt-br/blog/
 disableDefaultLanguageRedirect = false
 
-
 # Taxonomy configuration
 [taxonomies]
   village = "villages"
@@ -24,12 +23,12 @@ disableDefaultLanguageRedirect = false
     dir = ':cacheDir/images'
 
 [params]
-name = "307 Conference"
+name = "307"
 description = "Temporary Security Conference"
-location = "São Paulo, Brazil"
+location = "São Paulo/SP, Brasil"
 period = [
   2025-12-13T10:00:00-03:00,
-  2025-12-14T18:00:00-03:00,
+  2025-12-14T18:00:00-03:00
 ]
 
 [languages]
@@ -49,15 +48,15 @@ period = [
         pageRef = "/villages" # Corresponds to content/en/villages.md or content/en/villages/_index.md
         weight = 2
       [[languages.pt-br.menu.main]]
-        name = "Treinamentos"
+        name = "Mini-cursos"
         pageRef = "/trainings"
         weight = 3
       [[languages.pt-br.menu.main]]
-        name = "Speakers"
+        name = "Palestrantes"
         pageRef = "/authors"
         weight = 4
       [[languages.pt-br.menu.main]]
-        name = "Call For Papers"
+        name = "CFP"
         URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
         weight = 5
       [[languages.pt-br.menu.main]]
