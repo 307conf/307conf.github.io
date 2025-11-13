@@ -2,18 +2,22 @@
 name = "Garoa Hacker Clube"
 # date = "March 2024" 
 url = "https://garoa.net.br/"
+image = "/images/supporters/garoa.jpg"
 
 [[supporters]]
-name = "Hakai"
+name = "Hakai Security"
 url = "https://hakaisecurity.io"
+image = "/images/supporters/hakai.webp"
 
 [[supporters]]
 name = "Mente Binária"
 url = "https://menteb.in"
+image = "/images/supporters/mentebinaria.jpg"
 
 [[supporters]]
 name = "Pirate Ship"
 url = "https://pirateship.sh/"
+image = "/images/supporters/pirateship.png"
 
 # [[voluntary]]
 # role = "Community Lead"
