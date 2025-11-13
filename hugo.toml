@@ -11,7 +11,7 @@ canonifyURLs = true
 # language
 defaultContentLanguage = "pt-br"
 defaultContentLanguageInSubdir = true # Creates URLs like /pt-br/blog/
-disableDefaultLanguageRedirect = false
+disableDefaultLanguageRedirect = true
 
 
 # Taxonomy configuration
