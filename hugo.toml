@@ -1,6 +1,7 @@
 baseURL = 'https://307conf.com.br'
 languageCode = 'pt-br'
 title = '307 Conf | Temporary Security Conference'
+buildFuture = true
 
 # URL handling
 relativeURLs = true
@@ -14,7 +15,7 @@ disableDefaultLanguageRedirect = false
 
 # Taxonomy configuration
 [taxonomies]
-  talk = "talks"
+  village = "villages"
   tag = "tags"
 
 [caches]
@@ -27,7 +28,6 @@ disableDefaultLanguageRedirect = false
 
 [params]
 name = "307 Conference"
-location = "São Paulo, Brazil"
 description = "Temporary Security Conference"
 location = "São Paulo, Brazil"
 period = [
@@ -62,19 +62,15 @@ period = [
       [[languages.pt-br.menu.main]]
         name = "Call For Papers"
         URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
-        weight = 4
-      [[languages.pt-br.menu.main]]
-        name = "Sobre"
-        pageRef = "/about" # Assumes a section named 'about'
         weight = 5
       [[languages.pt-br.menu.main]]
         name = "Ingressos"
         URL = "https://www.eventbrite.com.br/e/307-temporary-security-conference-tickets-1967248486179?aff=siteoficial"
-        weight = 5
+        weight = 6
       [[languages.pt-br.menu.main]]
         name = "Sobre"
         pageRef = "/about" # Assumes a section named 'about'
-        weight = 6
+        weight = 7
 
   [languages.en]
     languageName = "English"
@@ -101,18 +97,13 @@ period = [
         weight = 4
       [[languages.en.menu.main]]
         name = "Call For Papers"
-        # pageRef = "/cpf"
         URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
-        weight = 4
-      [[languages.en.menu.main]]
-        name = "About"
-        pageRef = "/about" # Assumes a section named 'about'
         weight = 5
       [[languages.en.menu.main]]
         name = "Tickets"
         URL = "https://www.eventbrite.com.br/e/307-temporary-security-conference-tickets-1967248486179?aff=siteoficial"
-        weight = 5
+        weight = 6
       [[languages.en.menu.main]]
         name = "About"
         pageRef = "/about" # Assumes a section named 'about'
-        weight = 6
+        weight = 7
