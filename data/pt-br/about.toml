@@ -1,12 +1,19 @@
 [[supporters]]
-name = "Pirate Ship"
-# date = "Dec 2024"
-url = "https://pirateship.sh/"
-
-[[supporters]]
 name = "Garoa Hacker Clube"
 # date = "March 2024" 
 url = "https://garoa.net.br/"
+
+[[supporters]]
+name = "Hakai"
+url = "https://hakaisecurity.io"
+
+[[supporters]]
+name = "Mente Binária"
+url = "https://menteb.in"
+
+[[supporters]]
+name = "Pirate Ship"
+url = "https://pirateship.sh/"
 
 # [[voluntary]]
 # role = "Community Lead"
