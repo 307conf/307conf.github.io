@@ -1,5 +1,5 @@
 +++
-title = "Speakers"
+title = "Palestrantes"
 +++
 
 Aqui reunimos os autores confirmados da 307 Conf — palestrantes, mantenedores de villages e instrutores.
