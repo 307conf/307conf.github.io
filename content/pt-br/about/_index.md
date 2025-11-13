@@ -2,6 +2,6 @@
 title = "Sobre"
 +++
 
-The 307 Temporary Security Conference was born as a “temporary redirect” from H2HC, created by members of the cybersecurity community to keep alive the gathering for everyone who had already planned to be in São Paulo. It is an independent, collaborative, 100% volunteer-driven event, organized by people involved in initiatives such as BSides São Paulo, BXSec, and You Sh0t the Sheriff, with no sponsorship and free admission.
+A 307 Temporary Security Conference nasceu como um “redirecionamento temporário” da H2HC, criada por membros da comunidade de segurança da informação para manter vivo o encontro de todo mundo que já tinha planejado estar em São Paulo. É um evento independente, colaborativo, 100% tocado por voluntários, organizado por pessoas envolvidas em iniciativas como BSides São Paulo, BXSec e You Sh0t the Sheriff, sem patrocínio e com entrada gratuita.
 
-The goal is to bring the community together for two days of technical content, knowledge sharing, and hands-on information security. We will have at least one track of talks, space for multiple villages, and a CTF. As the program and venue are confirmed, this page will be updated with information for those who want to attend, support, speak at, or collaborate with the 307 Temporary Security Conference.
+O objetivo é reunir a comunidade por dois dias de conteúdo técnico, compartilhamento de conhecimento e segurança da informação mão na massa. Teremos pelo menos uma trilha de palestras, espaço para múltiplas villages e um CTF. À medida que a programação e o local forem sendo confirmados, esta página será atualizada com informações para quem quiser participar, apoiar, palestrar ou colaborar com a 307 Temporary Security Conference.
