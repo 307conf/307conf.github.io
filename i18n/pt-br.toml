@@ -36,3 +36,28 @@ other = "Novos conteúdos em breve."
 
 [publicationsTitle]
 other = "Apresentações"
+
+[month.1]
+other = "Jan"
+[month.2]
+other = "Fev"
+[month.3]
+other = "Mar"
+[month.4]
+other = "Abr"
+[month.5]
+other = "Mai"
+[month.6]
+other = "Jun"
+[month.7]
+other = "Jul"
+[month.8]
+other = "Ago"
+[month.9]
+other = "Set"
+[month.10]
+other = "Out"
+[month.11]
+other = "Nov"
+[month.12]
+other = "Dez"
