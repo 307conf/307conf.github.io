@@ -29,6 +29,11 @@ disableDefaultLanguageRedirect = false
 name = "307 Conference"
 location = "São Paulo, Brazil"
 description = "Temporary Security Conference"
+location = "São Paulo, Brazil"
+period = [
+  2025-12-13T10:00:00-03:00,
+  2025-12-14T18:00:00-03:00,
+]
 
 [languages]
   [languages.pt-br]
@@ -50,6 +55,10 @@ description = "Temporary Security Conference"
         name = "Treinamentos"
         pageRef = "/trainings"
         weight = 3
+      [[languages.pt-br.menu.main]]
+        name = "Speakers"
+        pageRef = "/authors"
+        weight = 4
       [[languages.pt-br.menu.main]]
         name = "Call For Papers"
         URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
@@ -86,6 +95,10 @@ description = "Temporary Security Conference"
         name = "Trainings"
         pageRef = "/trainings"
         weight = 3
+      [[languages.en.menu.main]]
+        name = "Speakers"
+        pageRef = "/authors"
+        weight = 4
       [[languages.en.menu.main]]
         name = "Call For Papers"
         # pageRef = "/cpf"
