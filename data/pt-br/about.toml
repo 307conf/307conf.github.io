@@ -1,6 +1,5 @@
 [[supporters]]
 name = "Garoa Hacker Clube"
-# date = "March 2024" 
 url = "https://garoa.net.br/"
 image = "/images/supporters/garoa.jpg"
 
@@ -18,9 +17,3 @@ image = "/images/supporters/mentebinaria.jpg"
 name = "Pirate Ship"
 url = "https://pirateship.sh/"
 image = "/images/supporters/pirateship.png"
-
-# [[voluntary]]
-# role = "Community Lead"
-# organization = "Lorem Foundation"
-# period = "2020 - Present"
-# description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis."
