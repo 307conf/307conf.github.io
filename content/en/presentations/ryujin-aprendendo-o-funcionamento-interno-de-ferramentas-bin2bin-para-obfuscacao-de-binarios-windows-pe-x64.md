@@ -2,8 +2,8 @@
 title = "Ryūjin - Learning the inner workings of Bin2Bin tools for obfuscating Windows PE x64 binaries"
 date = 2025-11-12T10:00:00-03:00
 authors = ["joao-vitor-keowu"]
-period = "December 13, 2025"
-country = "Brazil"
+period = "TDB"
+location = "Room 1"
 short_description = "Breaking down Bin2Bin pipelines to understand how Windows PE x64 binaries are obfuscated and how to detect this kind of technique."
 summary = "Researcher João Vitor (@keowu) shares his methodology for analyzing Bin2Bin tools focused on advanced obfuscation of Windows binaries."
 logo = "/images/speakers/joao-vitor.png"
