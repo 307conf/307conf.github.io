@@ -35,7 +35,7 @@ period = [
   [languages.pt-br]
     languageName = "Português"
     languageCode = "pt-br"
-    title = "307 Conf | Temporary Security Conference"
+    title = "307 | Temporary Security Conference"
     weight = 1
     contentDir = "content/pt-br"
     [languages.pt-br.menu]
@@ -71,7 +71,7 @@ period = [
   [languages.en]
     languageName = "English"
     languageCode = "en"
-    title = "307 Conf | Temporary Security Conference"
+    title = "307 | Temporary Security Conference"
     weight = 2
     contentDir = "content/en"
     [languages.en.menu]
