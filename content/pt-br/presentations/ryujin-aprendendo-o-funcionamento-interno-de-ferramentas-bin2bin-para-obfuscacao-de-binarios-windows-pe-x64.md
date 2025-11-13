@@ -10,6 +10,4 @@ logo = "/images/speakers/joao-vitor.png"
 weight = 1
 +++
 
-Nesta sessão o João Vitor (@keowu) vai apresentar a pesquisa **Ryūjin**, mostrando como ferramentas de Bin2Bin funcionam internamente para aplicar camadas de ofuscação em executáveis Windows PE x64.
-
-Ele demonstra como identificar artefatos comuns nesses pipelines, como automatizar a detecção com YARA e como um atacante pode abusar dessas técnicas para fugir de engines de segurança tradicionais.
+Esta talk explicará o funcionamento interno de proteções comerciais Bin2Bin: estrutura e como um PE pode ser alterado pós-compilação para substituir instruções originais por outras ofuscadas. Mostrarei como extrair sequências de opcodes geradas por qualquer compilador (na demo: o MSVC), disassemblá-las, separá-las em procedimentos, criar basic blocks estruturados e aplicar passes escritos do zero para adicionar junk/code, mutação, proteção de IAT, crypter, técnicas conhecidas de anti-debug, ofuscação MBA não linear e até uma VM que gera bytecodes para instruções matemáticas básicas. Também abordaremos memória, relocações e, como bônus, apresentaremos a ideia e os passos para desofuscar instruções processadas pelo Bin2Bin usando a nova wrapper pythonic da Hex-Rays, ida-domain. Objetivo: despertar interesse e fascínio por ofuscação e desofuscação.
