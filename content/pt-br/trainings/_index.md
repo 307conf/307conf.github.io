@@ -1,8 +1,5 @@
 +++
-title = "Treinamentos"
+title = "Mini-cursos"
 +++
 
-Os treinamentos oficiais da 307 Conf ainda não foram definidos.
-Estamos negociando com instrutores e empresas parceiras para montar turmas enxutas,
-com foco em pesquisa de segurança ofensiva e defesa prática. Assim que houver datas e inscrições abertas,
-esta página será atualizada.
+Os mini-cursos oficiais da 307 Temporary Security Conference ainda não foram definidos, mas você pode submeter sua proposta pelo CFP. Assim que tivermos mini-cursos confirmados, avisaremos nas redes dos apoiadores e atualizaremos essa página.
