@@ -1,6 +1,6 @@
 +++
 title = "João Vitor (@keowu)"
-description = "Ryūjin - Aprendendo o funcionamento interno de ferramentas Bin2Bin para Obfuscação de Binários Windows PE x64"
+# description = "Ryūjin - Aprendendo o funcionamento interno de ferramentas Bin2Bin para Obfuscação de Binários Windows PE x64"
 date = 2025-11-12T09:00:00-03:00
 slug = "joao-vitor-keowu"
 role = "Sr. Security Researcher"

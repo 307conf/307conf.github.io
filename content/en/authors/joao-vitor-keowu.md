@@ -1,6 +1,6 @@
 +++
 title = "João Vitor (@keowu)"
-description = "Ryūjin - Learning how Bin2Bin tools obfuscate Windows PE x64 binaries"
+# description = "Ryūjin - Learning how Bin2Bin tools obfuscate Windows PE x64 binaries"
 date = 2025-12-13T09:00:00-03:00
 slug = "joao-vitor-keowu"
 role = "Senior Security Researcher"
