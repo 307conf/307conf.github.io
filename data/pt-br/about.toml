@@ -17,3 +17,8 @@ image = "/images/supporters/mentebinaria.jpg"
 name = "Pirate Ship"
 url = "https://pirateship.sh/"
 image = "/images/supporters/pirateship.png"
+
+[[supporters]]
+name = "MobSec Crew"
+url = "https://www.instagram.com/mobseccrew/"
+image = "/images/supporters/mobseccrew.jpg"
