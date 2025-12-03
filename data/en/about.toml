@@ -4,11 +4,6 @@ url = "https://garoa.net.br/"
 image = "/images/supporters/garoa.jpg"
 
 [[supporters]]
-name = "Hakai Security"
-url = "https://hakaisecurity.io"
-image = "/images/supporters/hakai.webp"
-
-[[supporters]]
 name = "Mente Binária"
 url = "https://menteb.in"
 image = "/images/supporters/mentebinaria.jpg"
@@ -27,3 +22,8 @@ image = "/images/supporters/pirateship.png"
 name = "MobSec Crew"
 url = "https://www.instagram.com/mobseccrew/"
 image = "/images/supporters/mobseccrew.jpg"
+
+[[supporters]]
+name = "Hakai Security"
+url = "https://hakaisecurity.io"
+image = "/images/supporters/hakai.webp"
