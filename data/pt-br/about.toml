@@ -14,6 +14,11 @@ url = "https://menteb.in"
 image = "/images/supporters/mentebinaria.jpg"
 
 [[supporters]]
+name = "bxsec"
+url = "https://bxsec.org"
+image = "/images/supporters/bxsec.jpg"
+
+[[supporters]]
 name = "Pirate Ship"
 url = "https://pirateship.sh/"
 image = "/images/supporters/pirateship.png"
