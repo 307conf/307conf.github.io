@@ -25,7 +25,8 @@ disableDefaultLanguageRedirect = false
 [params]
 name = "307"
 description = "Temporary Security Conference"
-location = "São Paulo/SP, Brasil"
+location = "PUC-SP - Campus Consolação"
+full_address = "R. Marquês de Paranaguá, 111 - Consolação, São Paulo - SP, 01303-050"
 period = [
   2025-12-13T10:00:00-03:00,
   2025-12-14T18:00:00-03:00
