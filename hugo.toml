@@ -29,7 +29,7 @@ location = "PUC-SP - Campus Consolação"
 full_address = "R. Marquês de Paranaguá, 111 - Consolação, São Paulo - SP, 01303-050"
 tracks = ["main"] # Tracks usadas para filtrar agenda na home
 period = [
-  2025-12-13T10:00:00-03:00,
+  2025-12-13T09:00:00-03:00,
   2025-12-14T18:00:00-03:00
 ]
 
