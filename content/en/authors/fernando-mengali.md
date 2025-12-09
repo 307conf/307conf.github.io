@@ -3,7 +3,7 @@ title = "Fernando Mengali"
 date = 2025-11-12T09:00:00-03:00
 slug = "fernando-mengali"
 role = "Cybersecurity Researcher"
-avatar = "/images/speakers/fernando-mengali.png"
+avatar = "/images/speakers/speaker.png"
 +++
 
 Fernando Mengali is a cybersecurity researcher focused on pentesting and AppSec, with more than 15 years of experience in offensive security. A specialist in 0-day discovery and exploit development, he has published over 135 CVEs and contributed to repositories such as Packetstorm, CXSecurity, and Exploit-DB.

@@ -57,10 +57,10 @@ period = [
         name = "Palestrantes"
         pageRef = "/authors"
         weight = 4
-      [[languages.pt-br.menu.main]]
-        name = "CFP"
-        URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
-        weight = 5
+      # [[languages.pt-br.menu.main]]
+      #   name = "CFP"
+      #   URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
+      #   weight = 5
       [[languages.pt-br.menu.main]]
         name = "Ingressos"
         URL = "https://www.eventbrite.com.br/e/307-temporary-security-conference-tickets-1967248486179?aff=siteoficial"
@@ -93,10 +93,10 @@ period = [
         name = "Speakers"
         pageRef = "/authors"
         weight = 4
-      [[languages.en.menu.main]]
-        name = "Call For Papers"
-        URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
-        weight = 5
+      # [[languages.en.menu.main]]
+      #   name = "Call For Papers"
+      #   URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
+      #   weight = 5
       [[languages.en.menu.main]]
         name = "Tickets"
         URL = "https://www.eventbrite.com.br/e/307-temporary-security-conference-tickets-1967248486179?aff=siteoficial"

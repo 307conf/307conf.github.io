@@ -3,7 +3,7 @@ title = "pr3y"
 date = 2025-11-12T09:00:00-03:00
 slug = "pr3y"
 role = "Application Security Engineer"
-avatar = "/images/speakers/pr3y.png"
+avatar = "/images/speakers/speaker.png"
 +++
 
 pr3y is an Application Security Engineer with Red Team experience, passionate about reverse engineering, offensive security, and technology. He works on challenges involving embedded systems, web, mobile, infrastructure, and reverse engineering analyses, and volunteers with the Boitatech community.

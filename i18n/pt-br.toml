@@ -16,6 +16,9 @@ other = "Ver Tudo"
 [localTimeLabel]
 other = "Hora Local:"
 
+[brTimeLabel]
+other = "Horário de Brasília"
+
 [menuTitle]
 other = "Menu"
 
@@ -38,7 +41,7 @@ other = "Novos conteúdos em breve."
 other = "Apresentações"
 
 [fullAddressLabel]
-other = "Endereço completo"
+other = "Endereço"
 
 [openInMaps]
 other = "Ver no mapa"
@@ -60,6 +63,9 @@ other = "Trilha"
 
 [locationLabel]
 other = "Local"
+
+[speakersTitle]
+other = "Palestrantes"
 
 [month.1]
 other = "Jan"
