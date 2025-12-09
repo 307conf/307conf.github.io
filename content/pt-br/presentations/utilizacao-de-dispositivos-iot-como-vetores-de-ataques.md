@@ -4,6 +4,7 @@ date = 2025-11-12T10:00:00-03:00
 authors = ["pr3y"]
 period = "A definir horário"
 location = "A definir sala"
+track = "main"
 short_description = "Ataques possíveis envolvendo a família ESP32 e um hands-on com a instalação do Bruce."
 summary = "pr3y demonstra ataques possíveis envolvendo microcontroladores ESP32 e apresenta, possivelmente com hands-on, a instalação do projeto Bruce."
 logo = "/images/speakers/pr3y.png"

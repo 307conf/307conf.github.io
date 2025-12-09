@@ -4,6 +4,7 @@ date = 2025-11-12T10:00:00-03:00
 authors = ["davi-trindade"]
 period = "A definir horário"
 location = "A definir sala"
+track = "main"
 short_description = "Caso real de bypass de pinning em app Flutter revelando escrita em LDAP corporativo e permitindo ATO, OTP bypass e function lockout."
 summary = "Caso real de bypass de pinning em app Flutter — sem Frida e sem alterar o APK — que expôs escrita em LDAP corporativo e permitiu ATO, OTP bypass e function lockout."
 logo = "/images/speakers/davi-trindade.png"

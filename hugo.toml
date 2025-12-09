@@ -105,3 +105,11 @@ period = [
         name = "About"
         pageRef = "/about" # Assumes a section named 'about'
         weight = 7
+
+[environments]
+  [environments.production]
+    baseURL = "https://307conf.com.br"
+    canonifyURLs = true
+  [environments.development]
+    baseURL = "http://localhost:1313/"
+    canonifyURLs = false

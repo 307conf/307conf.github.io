@@ -4,6 +4,7 @@ date = 2025-11-12T10:00:00-03:00
 authors = ["anderson-nascimento"]
 period = "A definir horário"
 location = "A definir sala"
+track = "main"
 short_description = "Análise de falhas persistentes no protocolo CAN BCM do kernel Linux, exploração prática e desafios no processo de patching."
 summary = "Anderson Nascimento apresenta sua experiência na descoberta e exploração de múltiplas vulnerabilidades no protocolo CAN BCM do kernel do Linux, discutindo falhas persistentes, padrões de insegurança e limitações nos processos de correção."
 logo = "/images/speakers/anderson-nascimento.png"

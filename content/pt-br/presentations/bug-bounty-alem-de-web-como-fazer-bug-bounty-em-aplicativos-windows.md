@@ -7,6 +7,7 @@ location = "A definir sala"
 short_description = "Como identificar vulnerabilidades em aplicativos Windows e explorar um ambiente pouco utilizado por bug bounty hunters."
 summary = "Giuliano Sanfins apresenta vulnerabilidades reais encontradas em aplicativos Windows em programas de bug bounty e demonstra como analisar protocolos, AppServices, COM, Named Pipes e outros fundamentos que sustentam o ecossistema Windows."
 logo = "/images/speakers/giuliano-sanfins.png"
+track = "main"
 weight = 1
 +++
 

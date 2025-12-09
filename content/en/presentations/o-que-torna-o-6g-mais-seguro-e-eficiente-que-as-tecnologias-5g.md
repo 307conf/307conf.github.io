@@ -4,6 +4,7 @@ date = 2025-11-12T10:00:00-03:00
 authors = ["daniele-nazare-tavares"]
 period = "To be scheduled"
 location = "To be announced"
+track = "main"
 short_description = "How 6G incorporates AI, self-protection, and quantum security to overcome 5G limitations."
 summary = "Daniele Nazaré Tavares presents the innovations of 6G in efficiency, AI-based self-protection, and quantum security, and discusses the challenges for adopting the technology in Brazil."
 logo = "/images/speakers/daniele-nazare-tavares.png"
