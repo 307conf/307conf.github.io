@@ -48,10 +48,10 @@ period = [
         name = "Villages"
         pageRef = "/villages" # Corresponds to content/en/villages.md or content/en/villages/_index.md
         weight = 2
-      [[languages.pt-br.menu.main]]
-        name = "Mini-cursos"
-        pageRef = "/trainings"
-        weight = 3
+      # [[languages.pt-br.menu.main]]
+      #   name = "Mini-cursos"
+      #   pageRef = "/trainings"
+      #   weight = 3
       [[languages.pt-br.menu.main]]
         name = "Palestrantes"
         pageRef = "/authors"
@@ -84,10 +84,10 @@ period = [
         name = "Villages"
         pageRef = "/villages" # Corresponds to content/en/villages.md or content/en/villages/_index.md
         weight = 2
-      [[languages.en.menu.main]]
-        name = "Trainings"
-        pageRef = "/trainings"
-        weight = 3
+      # [[languages.en.menu.main]]
+      #   name = "Trainings"
+      #   pageRef = "/trainings"
+      #   weight = 3
       [[languages.en.menu.main]]
         name = "Speakers"
         pageRef = "/authors"
