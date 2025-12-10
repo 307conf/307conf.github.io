@@ -1,9 +1,8 @@
 +++
 title = "O que torna o 6G mais seguro e eficiente que as tecnologias 5G?"
-date = 2025-11-12T10:00:00-03:00
+date = 2025-12-14T10:50:00-03:00
 authors = ["daniele-nazare-tavares"]
-period = "A definir horário"
-location = "A definir sala"
+track = "main"
 short_description = "Como o 6G incorpora IA, autoproteção e segurança quântica para superar limitações do 5G."
 summary = "Daniele Nazaré Tavares apresenta as inovações do 6G em eficiência, autoproteção baseada em IA e segurança quântica, e discute os desafios para adoção da tecnologia no Brasil."
 logo = "/images/speakers/daniele-nazare-tavares.png"

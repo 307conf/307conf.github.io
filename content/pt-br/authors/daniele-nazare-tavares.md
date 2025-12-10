@@ -3,7 +3,7 @@ title = "Daniele Nazaré Tavares"
 date = 2025-11-12T09:00:00-03:00
 slug = "daniele-nazare-tavares"
 role = "Pesquisadora e Engenheira"
-avatar = "/images/speakers/daniele-nazare-tavares.png"
+avatar = "/images/speakers/speaker.png"
 +++
 
 Daniele Nazaré Tavares é mestre em Engenharia de Eletrônica e Computação pelo ITA e graduada em Engenharia de Computação pelo INATEL, atuando em projetos que integram software, hardware, modelagem de dados e Inteligência Artificial.

@@ -4,6 +4,7 @@ date = 2025-11-12T10:00:00-03:00
 authors = ["nelson-brito"]
 period = "To be scheduled"
 location = "To be announced"
+track = "main"
 short_description = "How PE patching can reveal weaknesses in EDR detection and help assess ransomware-focused defenses."
 summary = "Researcher Nelson Brito presents how PE patching is used to expose detection gaps in EDR solutions by simulating ransomware behavior in controlled environments."
 logo = "/images/speakers/nelson-brito.png"

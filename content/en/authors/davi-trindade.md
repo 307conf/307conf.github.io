@@ -3,7 +3,7 @@ title = "Davi Trindade"
 date = 2025-11-12T09:00:00-03:00
 slug = "davi-trindade"
 role = "Red Teamer"
-avatar = "/images/speakers/davi-trindade.png"
+avatar = "/images/speakers/speaker.png"
 +++
 
 Davi Trindade is the cofounder of the hacking community hackersOnSteroids and works as a pentester and red teamer focused on mobile, web, Active Directory, and applied research in malware development.

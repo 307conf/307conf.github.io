@@ -1,9 +1,8 @@
 +++
 title = "Contemplações de uma hacker – hacking for fun and not profit"
-date = 2025-11-12T10:00:00-03:00
+date = 2025-12-13T11:40:00-03:00
 authors = ["anne-isabelle-lovelace"]
-period = "A definir horário"
-location = "A definir sala"
+track = "main"
 short_description = "Reflexões sobre ser hacker, curiosidade, mercado, legado e o processo por trás do artigo 'Hacking Inacabado de Verão'."
 summary = "Anne Isabelle “Anya” Lovelace compartilha sua experiência analisando dispositivos Google, o processo criativo por trás do artigo 'Hacking Inacabado de Verão' e reflexões sobre como continuar hackeando por diversão, curiosidade e legado."
 logo = "/images/speakers/anne-isabelle-lovelace.png"

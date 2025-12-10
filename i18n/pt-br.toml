@@ -1,3 +1,6 @@
+[day]
+other = "Dia"
+
 [sponsorsTitle]
 other = "Patrocinadores"
 
@@ -15,6 +18,9 @@ other = "Ver Tudo"
 
 [localTimeLabel]
 other = "Hora Local:"
+
+[brTimeLabel]
+other = "Horário de Brasília"
 
 [menuTitle]
 other = "Menu"
@@ -38,13 +44,31 @@ other = "Novos conteúdos em breve."
 other = "Apresentações"
 
 [fullAddressLabel]
-other = "Endereço completo"
+other = "Endereço"
 
 [openInMaps]
 other = "Ver no mapa"
 
 [eventDateLabel]
 other = "Data do evento"
+
+[talkTimeLabel]
+other = "Horário"
+
+[talkTitleLabel]
+other = "Palestra"
+
+[speakerLabel]
+other = "Palestrante"
+
+[trackLabel]
+other = "Trilha"
+
+[locationLabel]
+other = "Local"
+
+[speakersTitle]
+other = "Palestrantes"
 
 [month.1]
 other = "Jan"
@@ -70,3 +94,6 @@ other = "Out"
 other = "Nov"
 [month.12]
 other = "Dez"
+
+[secureYourSeat]
+other = "Garanta seu ingresso!"

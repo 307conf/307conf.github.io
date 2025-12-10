@@ -27,6 +27,7 @@ name = "307"
 description = "Temporary Security Conference"
 location = "PUC-SP - Campus Consolação"
 full_address = "R. Marquês de Paranaguá, 111 - Consolação, São Paulo - SP, 01303-050"
+tracks = ["main"] # Tracks usadas para filtrar agenda na home
 period = [
   2025-12-13T09:00:00-03:00,
   2025-12-14T18:00:00-03:00
@@ -48,18 +49,18 @@ period = [
         name = "Villages"
         pageRef = "/villages" # Corresponds to content/en/villages.md or content/en/villages/_index.md
         weight = 2
-      [[languages.pt-br.menu.main]]
-        name = "Mini-cursos"
-        pageRef = "/trainings"
-        weight = 3
+      # [[languages.pt-br.menu.main]]
+      #   name = "Mini-cursos"
+      #   pageRef = "/trainings"
+      #   weight = 3
       [[languages.pt-br.menu.main]]
         name = "Palestrantes"
         pageRef = "/authors"
         weight = 4
-      [[languages.pt-br.menu.main]]
-        name = "CFP"
-        URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
-        weight = 5
+      # [[languages.pt-br.menu.main]]
+      #   name = "CFP"
+      #   URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
+      #   weight = 5
       [[languages.pt-br.menu.main]]
         name = "Ingressos"
         URL = "https://www.eventbrite.com.br/e/307-temporary-security-conference-tickets-1967248486179?aff=siteoficial"
@@ -84,18 +85,18 @@ period = [
         name = "Villages"
         pageRef = "/villages" # Corresponds to content/en/villages.md or content/en/villages/_index.md
         weight = 2
-      [[languages.en.menu.main]]
-        name = "Trainings"
-        pageRef = "/trainings"
-        weight = 3
+      # [[languages.en.menu.main]]
+      #   name = "Trainings"
+      #   pageRef = "/trainings"
+      #   weight = 3
       [[languages.en.menu.main]]
         name = "Speakers"
         pageRef = "/authors"
         weight = 4
-      [[languages.en.menu.main]]
-        name = "Call For Papers"
-        URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
-        weight = 5
+      # [[languages.en.menu.main]]
+      #   name = "Call For Papers"
+      #   URL = "https://forms.gle/fWjpzdcQjSbHgfyY6"
+      #   weight = 5
       [[languages.en.menu.main]]
         name = "Tickets"
         URL = "https://www.eventbrite.com.br/e/307-temporary-security-conference-tickets-1967248486179?aff=siteoficial"
@@ -104,3 +105,11 @@ period = [
         name = "About"
         pageRef = "/about" # Assumes a section named 'about'
         weight = 7
+
+[environments]
+  [environments.production]
+    baseURL = "https://307conf.com.br"
+    canonifyURLs = true
+  [environments.development]
+    baseURL = "http://localhost:1313/"
+    canonifyURLs = false

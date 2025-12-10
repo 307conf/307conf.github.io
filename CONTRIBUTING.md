@@ -26,8 +26,8 @@ weight = 1
 ```
 
 - Campos úteis (opcionais):
-  - `speaker_name` — sobrescreve o nome do autor exibido
-  - `speaker_link` — link para a página do speaker
+  - `author` — sobrescreve o nome do autor exibido
+- `author_link` — link para a página do autor (opcional)
   - `period` — se deseja um período específico para esta apresentação
   - `location`, `short_description`, `summary`, `logo`, `weight`
 

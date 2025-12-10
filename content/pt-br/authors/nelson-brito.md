@@ -4,7 +4,7 @@ title = "Nelson Brito"
 date = 2025-11-12T09:00:00-03:00
 slug = "nelson-brito"
 role = "Technical Director"
-avatar = "/images/speakers/nelson-brito.png"
+avatar = "/images/speakers/speaker.png"
 +++
 
 Nelson Brito é um pesquisador brasileiro em segurança digital com mais de duas décadas de experiência na área, especializado em engenharia reversa, análise de vulnerabilidades, testes de infraestrutura de rede e ataques de negação de serviço (DoS/DDoS). 

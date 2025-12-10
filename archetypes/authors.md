@@ -5,5 +5,5 @@ date = {{ .Date }}
 slug = ""
 role = ""
 draft = true
-avatar = ""
+avatar = "/images/speakers/speaker.png"
 +++

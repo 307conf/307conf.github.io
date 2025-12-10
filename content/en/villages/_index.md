@@ -1,5 +1,6 @@
 +++
 title = "Villages"
+datetime_format = "HH:mm"
 +++
 
 Villages are still being curated together with partner collectives.

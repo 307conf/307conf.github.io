@@ -1,9 +1,8 @@
 +++
 title = "Invisible Threat: Embedding a C2 Core into RTUs via SCADA Overflow SEH"
-date = 2025-11-12T10:00:00-03:00
+date = 2025-12-13T16:50:00-03:00
 authors = ["fernando-mengali"]
-period = "A definir horário"
-location = "A definir sala"
+track = "main"
 short_description = "Como um overflow com sobrescrita de SEH em servidor SCADA pode evoluir para backdoor, C2 e manipulação direta de RTUs."
 summary = "Fernando Mengali demonstra a cadeia completa de ataque contra sistemas SCADA: da exploração de um overflow com SEH à implantação de C2 persistente e manipulação de RTUs, mostrando o impacto operacional e financeiro em infraestruturas críticas."
 logo = "/images/speakers/fernando-mengali.png"
