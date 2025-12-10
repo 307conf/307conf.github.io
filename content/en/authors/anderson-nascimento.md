@@ -1,9 +1,8 @@
 +++
 title = "Anderson Nascimento"
-date = 2025-11-12T09:00:00-03:00
 slug = "anderson-nascimento"
 role = "Security Director and Researcher"
-avatar = "/images/speakers/speaker.png"
+avatar = "/images/speakers/anderson-nascimento.jpeg"
 +++
 
 Anderson Nascimento is the director and principal security researcher at Allele Security Intelligence. He has more than 10 years of experience providing high-level research for companies and international clients.

@@ -1,9 +1,7 @@
 +++
 title = "Persistent Vulnerabilities in the Linux Kernel CAN BCM Protocol: An Exploitation and Discovery Analysis"
-date = 2025-11-12T10:00:00-03:00
+date = 2025-12-13T10:50:00-03:00
 authors = ["anderson-nascimento"]
-period = "To be scheduled"
-location = "To be announced"
 track = "main"
 short_description = "Analysis of persistent flaws in the Linux kernel CAN BCM protocol, practical exploitation, and challenges in the patching process."
 summary = "Anderson Nascimento shares his experience discovering and exploiting multiple vulnerabilities in the Linux kernel’s CAN BCM protocol, discussing persistent flaws, insecurity patterns, and limitations in the remediation process."

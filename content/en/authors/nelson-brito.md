@@ -1,9 +1,9 @@
 +++
 title = "Nelson Brito"
 # description = "Security Researcher and Cybersecurity Architect, creator of T50 and a reference in resilience, DoS/DDoS, and stress testing. International speaker specializing in modern threats, reverse engineering, and offensive defense."
-date = 2025-11-12T09:00:00-03:00
 slug = "nelson-brito"
 role = "Technical Director"
+avatar = "/images/speakers/nelson-brito.png"
 +++
 Nelson Brito is a Brazilian cybersecurity researcher with more than two decades of experience in the field, specializing in reverse engineering, vulnerability analysis, network infrastructure testing, and denial-of-service (DoS/DDoS) attacks.
 

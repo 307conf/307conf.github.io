@@ -1,9 +1,8 @@
 +++
 title = "Daniele Nazaré Tavares"
-date = 2025-11-12T09:00:00-03:00
 slug = "daniele-nazare-tavares"
 role = "Researcher and Engineer"
-avatar = "/images/speakers/speaker.png"
+avatar = "/images/speakers/daniele-tavares.jpeg"
 +++
 
 Daniele Nazaré Tavares holds a master’s degree in Electronic and Computer Engineering from ITA and a bachelor’s degree in Computer Engineering from INATEL, working on projects that combine software, hardware, data modeling, and Artificial Intelligence.

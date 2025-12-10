@@ -1,9 +1,7 @@
 +++
 title = "Bug Bounty Beyond the Web: How to Hunt Vulnerabilities in Windows Applications"
-date = 2025-11-12T10:00:00-03:00
+date = 2025-12-13T14:50:00-03:00
 authors = ["giuliano-sanfins"]
-period = "To be scheduled"
-location = "To be announced"
 track = "main"
 short_description = "How to identify vulnerabilities in Windows applications and explore an environment rarely used by bug bounty hunters."
 summary = "Giuliano Sanfins shares real vulnerabilities found in Windows applications via bug bounty programs and shows how to analyze protocols, AppServices, COM, Named Pipes, and other fundamentals that underpin the Windows ecosystem."

@@ -1,9 +1,7 @@
 +++
 title = "Contemplations of a Hacker – hacking for fun and not profit"
-date = 2025-11-12T10:00:00-03:00
+date = 2025-12-13T11:40:00-03:00
 authors = ["anne-isabelle-lovelace"]
-period = "To be scheduled"
-location = "To be announced"
 track = "main"
 short_description = "Reflections on being a hacker, curiosity, the market, legacy, and the process behind the article “Hacking Inacabado de Verão.”"
 summary = "Anne Isabelle “Anya” Lovelace shares her experience analyzing Google devices, the creative process behind the article “Hacking Inacabado de Verão,” and reflections on how to keep hacking for fun, curiosity, and legacy."

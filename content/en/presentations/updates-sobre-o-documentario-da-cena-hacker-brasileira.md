@@ -1,9 +1,7 @@
 +++
 title = "Updates on the Documentary About the Brazilian Hacker Scene"
-date = 2025-11-12T10:00:00-03:00
+date = 2025-12-14T11:40:00-03:00
 authors = ["willian-caprino", "carlos-cabral"]
-period = "To be scheduled"
-location = "To be announced"
 track = "main"
 short_description = "Updates on the documentary about the Brazilian hacker scene, including a 17-minute exclusive teaser."
 summary = "Willian Caprino and Carlos Cabral share the current status of the documentary on the Brazilian hacker scene and screen an exclusive 17-minute teaser."
