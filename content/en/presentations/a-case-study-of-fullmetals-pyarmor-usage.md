@@ -1,9 +1,7 @@
 +++
-date = '2025-11-27T11:51:35-03:00'
+date = 2025-12-13T17:40:00-03:00
 title = 'A Case Study of Fullmetal’s PyArmor Usage'
 authors = ["otavio-meneghesso"]
-period = "To be scheduled"
-location = "To be announced"
 track = "main"
 short_description = "How malware abuses public obfuscators, illustrated through the FULLMETAL case and an in-depth look at PyArmor’s internals and tooling."
 summary = "Otavio Meneghesso presents a technical study on how malware families leverage public obfuscators, focusing on the FULLMETAL case and on his contributions to the Pyarmor-Tooling project."

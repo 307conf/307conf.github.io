@@ -1,9 +1,7 @@
 +++
 title = "Optimizing Cyberattack Detection with Ensemble Learning"
-date = 2025-11-12T10:00:00-03:00
+date = 2025-12-13T16:00:00-03:00
 authors = ["thiago-jose-lucas"]
-period = "To be scheduled"
-location = "To be announced"
 track = "main"
 short_description = "How pruning and diversity techniques improve IDS with lower computational cost and higher accuracy."
 summary = "Thiago José Lucas presents findings from LARS/UNESP on intrusion detection using ensemble learning and pruning, showing how to optimize IDS with high precision and low cost."

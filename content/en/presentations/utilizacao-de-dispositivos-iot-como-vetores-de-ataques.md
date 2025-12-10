@@ -1,9 +1,7 @@
 +++
 title = "Using IoT Devices as Attack Vectors"
-date = 2025-11-12T10:00:00-03:00
+date = 2025-12-14T10:00:00-03:00
 authors = ["pr3y"]
-period = "To be scheduled"
-location = "To be announced"
 track = "main"
 short_description = "Possible attacks involving the ESP32 family and a hands-on with installing Bruce."
 summary = "pr3y demonstrates possible attacks involving ESP32 microcontrollers and presents — possibly with a hands-on — the installation of the Bruce project."

@@ -1,9 +1,7 @@
 +++
 title = "From Mobile to LDAP: when the “backup” becomes a vector — ATO, OTP bypass, and function lockout"
-date = 2025-11-12T10:00:00-03:00
+date = 2025-12-13T14:50:00-03:00
 authors = ["davi-trindade"]
-period = "To be scheduled"
-location = "To be announced"
 track = "main"
 short_description = "A real pinning bypass in a Flutter app revealing write access to corporate LDAP and enabling ATO, OTP bypass, and function lockout."
 summary = "A real case of pinning bypass in a Flutter app — without Frida and without modifying the APK — that exposed write access to corporate LDAP and enabled ATO, OTP bypass, and function lockout."
