@@ -1,7 +1,7 @@
 +++
 title = "Penegui"
 slug = "penegui"
-role = ""
+role = "Especialista em Segurança de Hardware"
 avatar = "/images/speakers/penegui.jpg"
 +++
 
