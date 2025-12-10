@@ -1,5 +1,4 @@
 +++
-date = '2025-11-27T11:53:28-03:00'
 title = 'Otavio Meneghesso'
 slug = "otavio-meneghesso"
 role = "Malware Analyst"
