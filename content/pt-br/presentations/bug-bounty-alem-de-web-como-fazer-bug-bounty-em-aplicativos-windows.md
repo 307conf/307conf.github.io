@@ -1,9 +1,7 @@
 +++
 title = "Bug bounty além de web: como fazer bug bounty em aplicativos Windows"
-date = 2025-11-12T10:00:00-03:00
+date = 2025-12-13T14:50:00-03:00
 authors = ["giuliano-sanfins"]
-period = "A definir horário"
-location = "A definir sala"
 short_description = "Como identificar vulnerabilidades em aplicativos Windows e explorar um ambiente pouco utilizado por bug bounty hunters."
 summary = "Giuliano Sanfins apresenta vulnerabilidades reais encontradas em aplicativos Windows em programas de bug bounty e demonstra como analisar protocolos, AppServices, COM, Named Pipes e outros fundamentos que sustentam o ecossistema Windows."
 logo = "/images/speakers/giuliano-sanfins.png"

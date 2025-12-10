@@ -1,5 +1,6 @@
 +++
 title = "Villages"
+datetime_format = "HH:mm"
 +++
 
 <!-- As villages ainda estão sendo definidas em conjunto com coletivos parceiros.

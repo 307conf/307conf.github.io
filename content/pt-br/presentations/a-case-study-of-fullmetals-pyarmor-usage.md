@@ -1,9 +1,7 @@
 +++
-date = '2025-11-27T11:51:35-03:00'
+date = 2025-12-13T17:40:00-03:00
 title = 'A Case Study of Fullmetals Pyarmor Usage'
 authors = ["otavio-meneghesso"]
-period = "A definir horário"
-location = "A definir sala"
 track = "main"
 short_description = "Como malwares exploram ofuscadores públicos: um estudo do caso FULLMETAL e dos mecanismos internos do PyArmor, incluindo BCC, JIT e técnicas usadas na análise e desofuscação."
 summary = "Otavio Meneghesso apresenta um estudo técnico sobre como malwares exploram ofuscadores públicos, com foco no caso FULLMETAL e em suas contribuições para a ferramenta Pyarmor-Tooling."
