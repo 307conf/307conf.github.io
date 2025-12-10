@@ -1,5 +1,5 @@
 +++
-date = 2025-12-13T17:40:00-03:00
+date = 2025-12-14T14:50:00-03:00
 title = "The Hex Editor We Deserve"
 authors = ["fernando-merces"]
 track = "main"

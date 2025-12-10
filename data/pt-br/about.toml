@@ -27,3 +27,13 @@ image = "/images/supporters/mobseccrew.jpg"
 name = "Hacking Club"
 url = "https://hackingclub.com/"
 image = "/images/supporters/hackingclub.png"
+
+[[supporters]]
+name = "PUC-SP"
+url = "https://www.pucsp.br/"
+image = "/images/supporters/puc-sp.png"
+
+[[supporters]]
+name = "RNP"
+url = "https://www.rnp.br/"
+image = "/images/supporters/rnp.jpeg"

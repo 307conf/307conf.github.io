@@ -1,6 +1,6 @@
 +++
 title = "Bug Bounty Beyond the Web: How to Hunt Vulnerabilities in Windows Applications"
-date = 2025-12-13T14:50:00-03:00
+date = 2025-12-14T14:00:00-03:00
 authors = ["giuliano-sanfins"]
 track = "main"
 short_description = "How to identify vulnerabilities in Windows applications and explore an environment rarely used by bug bounty hunters."
