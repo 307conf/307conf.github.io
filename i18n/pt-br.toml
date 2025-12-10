@@ -94,3 +94,6 @@ other = "Out"
 other = "Nov"
 [month.12]
 other = "Dez"
+
+[secureYourSeat]
+other = "Garanta seu ingresso!"
