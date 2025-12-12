@@ -1,5 +1,5 @@
 +++
-title = 'Quantum Village'
+title = 'Quantum Village BR'
 logo = "/images/villages/quantum-village.jpg"
-track = "Quantum Village"
+track = "Quantum Village BR"
 +++
