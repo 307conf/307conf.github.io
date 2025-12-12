@@ -19,11 +19,6 @@ url = "https://pirateship.sh/"
 image = "/images/supporters/pirateship.png"
 
 [[supporters]]
-name = "MobSec Crew"
-url = "https://www.instagram.com/mobseccrew/"
-image = "/images/supporters/mobseccrew.jpg"
-
-[[supporters]]
 name = "Hacking Club"
 url = "https://hackingclub.com/"
 image = "/images/supporters/hackingclub.png"
