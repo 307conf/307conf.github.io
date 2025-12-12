@@ -32,3 +32,13 @@ image = "/images/supporters/puc-sp.png"
 name = "RNP"
 url = "https://www.rnp.br/"
 image = "/images/supporters/rnp.jpeg"
+
+[[supporters]]
+name = "BsidesSP"
+url = "https://securitybsides.com.br/"
+image = "/images/supporters/bsides-sp.jpeg"
+
+[[supporters]]
+name = "You Sh0t The Sheriff"
+url = "https://www.ysts.org/"
+image = "/images/supporters/ysts.jpg"
