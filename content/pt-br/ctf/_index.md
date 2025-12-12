@@ -20,3 +20,5 @@ Preparados para o CTF? Segue o que você precisa saber para jogar bem e evitar d
 ## Dicas finais
 - O formato é **Jeopardy**: estratégia e raciocínio contam mais do que ferramentas automáticas.
 - Jogue limpo, aprenda bastante e divirta-se. 🚀💻
+
+> O CTF da 307 Conference é organizado pela [RNP](https://www.rnp.br)

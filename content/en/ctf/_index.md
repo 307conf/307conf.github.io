@@ -20,3 +20,5 @@ Ready for the CTF? Here’s what you need to play well and avoid headaches.
 ## Final tips
 - It’s a **Jeopardy-style** CTF: strategy and reasoning beat automated tools.
 - Play fair, learn a lot, and have fun. 🚀💻
+
+> The CTF is being organized by [RNP](https://www.rnp.br)
