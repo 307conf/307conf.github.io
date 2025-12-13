@@ -2,6 +2,6 @@
 title = "Carlos Alcocer"
 slug = "carlos-alcocer"
 role = "AI Security Researcher"
-avatar = "/images/speakers/carlos-alcocer.png"
+avatar = "/images/speakers/speaker.png"
 +++
 
