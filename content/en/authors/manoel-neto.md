@@ -5,6 +5,6 @@ role = "Security Researcher"
 avatar = "/images/speakers/manoel-neto.png"
 +++
 
-Manoel Neto é estudante em tempo integral para a certificação OSCP e formado em Engenharia de Software pela PUC. Possui dois anos de experiência como estagiário em Software Security na SiDi, atuando na descoberta de vulnerabilidades em Android, aplicações web e Windows.
+Manoel Neto is a full-time student for the OSCP certification and holds a degree in Software Engineering from PUC. He has two years of experience as a Software Security intern at SiDi, working on vulnerability discovery in Android, web applications, and Windows.
 
-Além da atuação prática, desenvolve pesquisas em segurança ofensiva, com interesse especial em browser exploitation e exploração de vulnerabilidades complexas.
+In addition to practical work, he conducts research in offensive security, with a special interest in browser exploitation and complex vulnerability exploitation.

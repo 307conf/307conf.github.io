@@ -1,13 +1,13 @@
 +++
-title = "Hackeando Pessoas, Invadindo Instituições: Um Ataque Real a um Banco Brasileiro"
+title = "Hacking People, Breaching Institutions: A Real Attack on a Brazilian Bank"
 date = 2025-12-14T16:50:00-03:00
 authors = ["lenon-stelman"]
 track = "Digital Investigation Village"
-short_description = "Análise de um ataque real contra uma instituição financeira."
-summary = "Lenon Stelman apresenta um caso real de ataque a um banco brasileiro, explorando fatores humanos e técnicos."
+short_description = "Analysis of a real attack against a financial institution."
+summary = "Lenon Stelman presents a real case of an attack on a Brazilian bank, exploring human and technical factors."
 weight = 7
 +++
 
-A palestra apresenta um caso real de ataque contra uma instituição financeira brasileira, demonstrando como engenharia social e falhas técnicas se combinam.
+The talk presents a real case of an attack against a Brazilian financial institution, demonstrating how social engineering and technical flaws combine.
 
-A sessão conecta investigação digital, comportamento humano e impactos institucionais.
+The session connects digital investigation, human behavior, and institutional impacts.

@@ -1,11 +1,9 @@
 +++
-title = "Caminho para a Maturidade em Cloud Security"
+title = "Path to Cloud Security Maturity"
 date = 2025-12-14T14:00:00-03:00
 authors = ["wagner-azevedo"]
 track = "AI Village"
-short_description = "Evolução da segurança em cloud rumo à maturidade organizacional."
-summary = "Wagner Azevedo discute como organizações podem evoluir seus controles e práticas para atingir maturidade em Cloud Security."
+short_description = "The evolution of cloud security towards organizational maturity."
+summary = "Wagner Azevedo discusses how organizations can evolve their controls and practices to achieve maturity in Cloud Security."
 weight = 4
 +++
-
-

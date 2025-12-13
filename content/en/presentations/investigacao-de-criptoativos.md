@@ -1,13 +1,13 @@
 +++
-title = "Investigação de Criptoativos"
+title = "Cryptoasset Investigation"
 date = 2025-12-14T14:50:00-03:00
 authors = ["israel-guarnieri"]
 track = "Digital Investigation Village"
-short_description = "Técnicas e desafios na investigação de criptoativos."
-summary = "Israel Guarnieri apresenta métodos e desafios na investigação de crimes envolvendo criptoativos."
+short_description = "Techniques and challenges in cryptoasset investigation."
+summary = "Israel Guarnieri presents methods and challenges in investigating crimes involving cryptoassets."
 weight = 5
 +++
 
-A palestra aborda técnicas de investigação aplicadas a criptoativos, explorando rastreamento, análise e desafios jurídicos e técnicos.
+The talk addresses investigation techniques applied to cryptoassets, exploring tracking, analysis, and legal and technical challenges.
 
-A sessão conecta blockchain, crimes financeiros e investigação digital no contexto brasileiro.
+The session connects blockchain, financial crimes, and digital investigation in the Brazilian context.

@@ -5,4 +5,4 @@ role = "Cybersecurity Specialist"
 avatar = "/images/speakers/speaker.png"
 +++
 
-Lenon Stelman é especialista em cibersegurança, atuando com investigação de ataques reais, engenharia social e defesa institucional.
+Cybersecurity specialist, focused on Red Team, social engineering, and analysis of real-world attacks against large organizations.

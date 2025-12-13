@@ -1,8 +1,8 @@
 +++
 title = "Emerson Wendt"
 slug = "emerson-wendt"
-role = "Delegado de Polícia e Professor"
+role = "Police Chief and Professor"
 avatar = "/images/speakers/speaker.png"
 +++
 
-Emerson Wendt é Delegado de Polícia da Polícia Civil do Rio Grande do Sul (PCRS) e professor da WB Educação, com atuação em investigação digital e crimes cibernéticos.
+Emerson Wendt is a Police Chief at the Civil Police of Rio Grande do Sul (PCRS) and a professor at WB Educação, working in digital investigation and cybercrimes.

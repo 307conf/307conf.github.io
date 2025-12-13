@@ -3,13 +3,13 @@ title = "Inception — Tips and Tricks I’ve Learned Reversing Vulnerabilities"
 date = 2025-12-13T16:00:00-03:00
 authors = ["nelson-brito"]
 track = "Binary Exploitation Village"
-short_description = "Técnicas, workflow e aprendizados práticos em engenharia reversa de vulnerabilidades reais."
-summary = "Nelson Brito compartilha técnicas avançadas de engenharia reversa, um workflow prático para profissionais e a análise de vulnerabilidades reais, incluindo novos vetores de exploração que burlam workarounds e detecções."
+short_description = "Techniques, workflow, and practical lessons in reverse engineering real vulnerabilities."
+summary = "Nelson Brito shares advanced reverse engineering techniques, a practical workflow for professionals, and the analysis of real vulnerabilities, including new exploitation vectors that bypass workarounds and detections."
 weight = 3
 +++
 
-Nesta palestra, Nelson Brito compartilha descobertas e aprendizados obtidos ao longo de anos trabalhando com engenharia reversa de vulnerabilidades, apresentando técnicas práticas e um workflow pensado para ajudar profissionais a evoluírem suas habilidades.
+In this talk, Nelson Brito shares discoveries and lessons learned over years of working with vulnerability reverse engineering, presenting practical techniques and a workflow designed to help professionals advance their skills.
 
-A sessão inclui detalhes profundos de pesquisas que levaram à atualização da descrição do CVE-2008-4844, incorporando informações relevantes que haviam sido negligenciadas anteriormente. Além disso, Nelson demonstra ao vivo a engenharia reversa de uma vulnerabilidade *client-side*, resultando na descoberta de um novo vetor de exploração capaz de burlar workarounds da Microsoft e assinaturas de detecção de intrusão em múltiplos fornecedores.
+The session includes in-depth details of research that led to updating the description of CVE-2008-4844, incorporating relevant information that had been previously overlooked. Additionally, Nelson will live-demo the reverse engineering of a *client-side* vulnerability, resulting in the discovery of a new exploitation vector capable of bypassing Microsoft workarounds and intrusion detection signatures from multiple vendors.
 
-A palestra conecta pesquisa, prática ofensiva e análise crítica, oferecendo uma visão realista de como vulnerabilidades surgem, evoluem e continuam exploráveis mesmo diante de defesas modernas.
+The talk connects research, offensive practice, and critical analysis, offering a realistic view of how vulnerabilities emerge, evolve, and remain exploitable even in the face of modern defenses.

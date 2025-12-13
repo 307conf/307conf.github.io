@@ -5,4 +5,4 @@ role = "ICS SOC Analyst"
 avatar = "/images/speakers/speaker.png"
 +++
 
-André Vianna atua como analista de SOC especializado em sistemas de controle industrial (ICS), com foco em detecção, resposta a incidentes e segurança de infraestruturas críticas.
+André Vianna works as a SOC analyst specializing in industrial control systems (ICS), focusing on detection, incident response, and critical infrastructure security.
