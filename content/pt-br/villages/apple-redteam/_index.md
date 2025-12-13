@@ -1,6 +1,6 @@
 +++
 title = 'Apple Red Team Village'
 logo = "/images/villages/apple-redteam-village.jpeg"
-track = "Apple Red Team Village"
+track = "Apple Red Team Village / Red Team Community"
 location = "Sala 321"
 +++
