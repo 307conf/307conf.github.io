@@ -1,6 +1,6 @@
 +++
 title = "Hunting the Intruder: Detecting and Mitigating Rogue Master Devices in Industrial Control Systems"
-date = 2025-12-14T10:50:00-03:00
+date = 2025-12-13T10:50:00-03:00
 authors = ["andre-vianna"]
 track = "Digital Investigation Village"
 short_description = "Detecção e mitigação de dispositivos maliciosos em ambientes ICS."

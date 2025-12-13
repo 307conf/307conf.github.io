@@ -1,6 +1,6 @@
 +++
 title = "Anonimato a Baixo Custo: Montando uma Cadeia de Ataque com Serviços Legítimos"
-date = 2025-12-14T17:40:00-03:00
+date = 2025-12-13T17:40:00-03:00
 authors = ["sergio-costa"]
 track = "Digital Investigation Village"
 short_description = "Como atacantes constroem anonimato usando serviços legítimos."

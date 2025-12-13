@@ -1,6 +1,6 @@
 +++
 title = "INSIDERS — The New Investigation Challenge"
-date = 2025-12-14T10:00:00-03:00
+date = 2025-12-13T10:00:00-03:00
 authors = ["thiago-chinellato"]
 track = "Digital Investigation Village"
 short_description = "The challenges of digital investigation in the face of insider threats."

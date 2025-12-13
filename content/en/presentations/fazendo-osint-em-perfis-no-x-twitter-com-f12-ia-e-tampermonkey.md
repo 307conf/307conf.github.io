@@ -1,6 +1,6 @@
 +++
 title = "Doing OSINT on X/Twitter Profiles with F12, AI, and Tampermonkey"
-date = 2025-12-14T11:40:00-03:00
+date = 2025-12-13T11:40:00-03:00
 authors = ["willian-wistuba"]
 track = "Digital Investigation Village"
 short_description = "Practical OSINT techniques on social media using accessible tools."

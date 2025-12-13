@@ -1,6 +1,6 @@
 +++
 title = "Cryptoasset Investigation"
-date = 2025-12-14T14:50:00-03:00
+date = 2025-12-13T14:50:00-03:00
 authors = ["israel-guarnieri"]
 track = "Digital Investigation Village"
 short_description = "Techniques and challenges in cryptoasset investigation."

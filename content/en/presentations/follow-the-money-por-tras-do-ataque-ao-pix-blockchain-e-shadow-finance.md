@@ -1,6 +1,6 @@
 +++
 title = "Follow the Money: Por Trás do Ataque ao PIX, Blockchain e Shadow Finance"
-date = 2025-12-14T16:00:00-03:00
+date = 2025-12-13T16:00:00-03:00
 authors = ["paulo-abreu"]
 track = "Digital Investigation Village"
 short_description = "Investigando fluxos financeiros em ataques digitais."

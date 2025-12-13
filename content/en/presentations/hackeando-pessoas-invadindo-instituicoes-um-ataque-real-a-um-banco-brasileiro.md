@@ -1,6 +1,6 @@
 +++
 title = "Hacking People, Breaching Institutions: A Real Attack on a Brazilian Bank"
-date = 2025-12-14T16:50:00-03:00
+date = 2025-12-13T16:50:00-03:00
 authors = ["lenon-stelman"]
 track = "Digital Investigation Village"
 short_description = "Analysis of a real attack against a financial institution."

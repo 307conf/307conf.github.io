@@ -1,6 +1,6 @@
 +++
 title = "IA, Dados Abertos e Investigação Digital"
-date = 2025-12-14T14:00:00-03:00
+date = 2025-12-13T14:00:00-03:00
 authors = ["emerson-wendt"]
 track = "Digital Investigation Village"
 short_description = "O uso de IA e dados abertos em investigações digitais."

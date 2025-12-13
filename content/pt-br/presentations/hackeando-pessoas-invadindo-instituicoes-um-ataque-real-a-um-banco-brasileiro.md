@@ -1,6 +1,6 @@
 +++
 title = "Hackeando Pessoas, Invadindo Instituições: Um Ataque Real a um Banco Brasileiro"
-date = 2025-12-14T16:50:00-03:00
+date = 2025-12-13T16:50:00-03:00
 authors = ["lenon-stelman"]
 track = "Digital Investigation Village"
 short_description = "Análise de um ataque real contra uma instituição financeira."
