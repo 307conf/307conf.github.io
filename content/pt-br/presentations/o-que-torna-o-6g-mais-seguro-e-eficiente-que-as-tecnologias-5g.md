@@ -5,7 +5,6 @@ authors = ["daniele-nazare-tavares"]
 track = "main"
 short_description = "Como o 6G incorpora IA, autoproteção e segurança quântica para superar limitações do 5G."
 summary = "Daniele Nazaré Tavares apresenta as inovações do 6G em eficiência, autoproteção baseada em IA e segurança quântica, e discute os desafios para adoção da tecnologia no Brasil."
-logo = "/images/speakers/daniele-nazare-tavares.png"
 weight = 1
 +++
 

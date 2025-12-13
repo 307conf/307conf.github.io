@@ -5,7 +5,6 @@ authors = ["anderson-nascimento"]
 track = "main"
 short_description = "Analysis of persistent flaws in the Linux kernel CAN BCM protocol, practical exploitation, and challenges in the patching process."
 summary = "Anderson Nascimento shares his experience discovering and exploiting multiple vulnerabilities in the Linux kernel’s CAN BCM protocol, discussing persistent flaws, insecurity patterns, and limitations in the remediation process."
-logo = "/images/speakers/anderson-nascimento.png"
 weight = 1
 +++
 

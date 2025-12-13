@@ -5,7 +5,6 @@ authors = ["pr3y"]
 track = "main"
 short_description = "Possible attacks involving the ESP32 family and a hands-on with installing Bruce."
 summary = "pr3y demonstrates possible attacks involving ESP32 microcontrollers and presents — possibly with a hands-on — the installation of the Bruce project."
-logo = "/images/speakers/pr3y.png"
 weight = 1
 +++
 

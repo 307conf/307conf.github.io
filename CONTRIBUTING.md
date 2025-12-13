@@ -20,7 +20,6 @@ period = "TDB"                     # opcional: pode ser string ou ISO datetime
 location = "Sala 1"
 short_description = "Breve descrição para cards e listagens"
 summary = "Resumo mais longo para a página da apresentação"
-logo = "/images/speakers/autor.png"
 weight = 1
 +++
 ```

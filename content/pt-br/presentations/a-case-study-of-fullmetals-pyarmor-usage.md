@@ -5,7 +5,6 @@ authors = ["otavio-meneghesso"]
 track = "main"
 short_description = "Como malwares exploram ofuscadores públicos: um estudo do caso FULLMETAL e dos mecanismos internos do PyArmor, incluindo BCC, JIT e técnicas usadas na análise e desofuscação."
 summary = "Otavio Meneghesso apresenta um estudo técnico sobre como malwares exploram ofuscadores públicos, com foco no caso FULLMETAL e em suas contribuições para a ferramenta Pyarmor-Tooling."
-logo = "/images/speakers/otavio-meneghesso.png"
 weight = 3
 +++
 

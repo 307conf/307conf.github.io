@@ -5,7 +5,6 @@ authors = ["fernando-mengali"]
 track = "main"
 short_description = "Como um overflow com sobrescrita de SEH em servidor SCADA pode evoluir para backdoor, C2 e manipulação direta de RTUs."
 summary = "Fernando Mengali demonstra a cadeia completa de ataque contra sistemas SCADA: da exploração de um overflow com SEH à implantação de C2 persistente e manipulação de RTUs, mostrando o impacto operacional e financeiro em infraestruturas críticas."
-logo = "/images/speakers/fernando-mengali.png"
 weight = 1
 +++
 

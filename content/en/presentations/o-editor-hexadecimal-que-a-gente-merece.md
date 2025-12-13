@@ -5,7 +5,6 @@ authors = ["fernando-merces"]
 track = "main"
 short_description = "Introducing dz6, a fast, minimalist hex editor inspired by the vim workflow."
 summary = "Fernando Merces presents dz6, a command-line hex editor with a textual interface designed for speed and productivity, demonstrating how its features assist in reverse engineering, malware analysis, and real-world cases."
-logo = "/images/speakers/fernando-merces.jpeg"
 weight = 3
 +++
 

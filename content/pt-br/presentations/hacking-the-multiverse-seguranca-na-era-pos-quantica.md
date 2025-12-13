@@ -5,7 +5,6 @@ authors = ["wolmer-godoi"]
 track = "Quantum Village BR"
 short_description = "Explorando os impactos da computação quântica nos ataques criptográficos e na segurança pós-quântica."
 summary = "Wolmer Godoi explora como a computação quântica muda o paradigma da segurança, analisando riscos criptográficos e as tecnologias emergentes que prometem proteger — ou expor — sistemas no cenário pós-quântico."
-logo = "/images/speakers/wolmer-godoi.jpg"
 weight = 4
 +++
 

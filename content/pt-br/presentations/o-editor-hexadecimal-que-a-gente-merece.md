@@ -5,7 +5,6 @@ authors = ["fernando-merces"]
 track = "main"
 short_description = "Apresentação do dz6, um editor hexadecimal rápido, minimalista e inspirado no fluxo de trabalho do vim."
 summary = "Fernando Mercês apresenta o dz6, um editor hexadecimal de linha de comando com interface textual, pensado para velocidade e produtividade, e mostra como seus recursos ajudam em engenharia reversa, análise de malware e outros casos reais."
-logo = "/images/speakers/fernando-merces.jpeg"
 weight = 3
 +++
 

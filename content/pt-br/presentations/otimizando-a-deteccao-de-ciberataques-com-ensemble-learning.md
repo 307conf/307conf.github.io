@@ -5,7 +5,6 @@ authors = ["thiago-jose-lucas"]
 track = "main"
 short_description = "Como técnicas de pruning e diversidade melhoram IDS com menor custo computacional e maior taxa de acertos."
 summary = "Thiago José Lucas apresenta os resultados de pesquisas do LARS/UNESP sobre detecção de intrusão usando ensemble learning e pruning, mostrando como otimizar IDS com alta precisão e baixo custo."
-logo = "/images/speakers/thiago-jose-lucas.png"
 weight = 1
 +++
 

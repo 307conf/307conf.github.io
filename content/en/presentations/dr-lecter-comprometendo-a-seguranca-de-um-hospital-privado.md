@@ -5,7 +5,6 @@ authors = ["igor-marcel"]
 track = "main"
 short_description = "How a fake doctor and a fake patient compromised the physical and logical security of a private hospital."
 summary = "Igor Marcel presents a real-world adversary simulation in which the team bypassed physical controls, accessed restricted areas, deployed malicious devices, and exploited human vulnerabilities inside a private hospital."
-logo = "/images/speakers/igor-marcel.png"
 weight = 1
 +++
 

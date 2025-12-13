@@ -5,7 +5,6 @@ authors = ["anne-isabelle-lovelace"]
 track = "main"
 short_description = "Reflections on being a hacker, curiosity, the market, legacy, and the process behind the article “Hacking Inacabado de Verão.”"
 summary = "Anne Isabelle “Anya” Lovelace shares her experience analyzing Google devices, the creative process behind the article “Hacking Inacabado de Verão,” and reflections on how to keep hacking for fun, curiosity, and legacy."
-logo = "/images/speakers/anne-isabelle-lovelace.png"
 weight = 1
 +++
 

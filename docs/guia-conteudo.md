@@ -53,7 +53,6 @@ authors = ["fulana-da-silva", "beltrano-sousa"]
 track = "main"
 short_description = "Demonstração prática de primitivas de heap em cenários reais."
 summary = "Versão expandida do resumo curto. Use para dar contexto extra."
-logo = "/images/speakers/fulana.png"
 location = "Auditório Principal"
 draft = false
 +++
@@ -94,7 +93,6 @@ draft = false
 +++
 title = "Binary Exploitation Village"
 track = "Binary Exploitation Village"
-logo = "/images/villages/binary-exploitation-village.png"
 location = "Espaço Villages 1"
 weight = 1
 draft = false

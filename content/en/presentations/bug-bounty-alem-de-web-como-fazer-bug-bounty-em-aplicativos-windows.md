@@ -5,7 +5,6 @@ authors = ["giuliano-sanfins"]
 track = "main"
 short_description = "How to identify vulnerabilities in Windows applications and explore an environment rarely used by bug bounty hunters."
 summary = "Giuliano Sanfins shares real vulnerabilities found in Windows applications via bug bounty programs and shows how to analyze protocols, AppServices, COM, Named Pipes, and other fundamentals that underpin the Windows ecosystem."
-logo = "/images/speakers/giuliano-sanfins.png"
 weight = 1
 +++
 

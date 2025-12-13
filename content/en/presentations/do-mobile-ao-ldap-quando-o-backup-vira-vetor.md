@@ -5,7 +5,6 @@ authors = ["davi-trindade"]
 track = "main"
 short_description = "A real pinning bypass in a Flutter app revealing write access to corporate LDAP and enabling ATO, OTP bypass, and function lockout."
 summary = "A real case of pinning bypass in a Flutter app — without Frida and without modifying the APK — that exposed write access to corporate LDAP and enabled ATO, OTP bypass, and function lockout."
-logo = "/images/speakers/davi-trindade.png"
 weight = 1
 +++
 

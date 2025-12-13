@@ -5,7 +5,6 @@ authors = ["willian-caprino", "carlos-cabral"]
 track = "main"
 short_description = "Updates on the documentary about the Brazilian hacker scene, including a 17-minute exclusive teaser."
 summary = "Willian Caprino and Carlos Cabral share the current status of the documentary on the Brazilian hacker scene and screen an exclusive 17-minute teaser."
-logo = "/images/speakers/willian-caprino-e-carlos-cabral.png"
 weight = 1
 +++
 

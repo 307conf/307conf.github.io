@@ -5,7 +5,6 @@ authors = ["willian-caprino", "carlos-cabral"]
 track = "main"
 short_description = "Atualizações sobre o documentário da cena hacker brasileira, incluindo um teaser inédito de 17 minutos."
 summary = "Willian Caprino e Carlos Cabral apresentam o status da produção do documentário sobre a cena hacker brasileira e exibem um teaser exclusivo de 17 minutos."
-logo = "/images/speakers/willian-caprino-e-carlos-cabral.png"
 weight = 1
 +++
 

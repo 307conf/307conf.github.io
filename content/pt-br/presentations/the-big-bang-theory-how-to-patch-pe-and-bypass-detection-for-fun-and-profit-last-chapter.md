@@ -5,7 +5,6 @@ authors = ["nelson-brito"]
 track = "main"
 short_description = "Como a alteração de PE pode revelar fragilidades na detecção de EDR e ajudar a avaliar defesas focadas em ransomware."
 summary = "O pesquisador Nelson Brito apresenta como a modificação de PE é usada para expor lacunas de detecção em soluções de EDR ao simular comportamento de ransomware em ambientes controlados."
-logo = "/images/speakers/nelson-brito.png"
 weight = 1
 +++
 

@@ -5,7 +5,6 @@ authors = ["igor-marcel"]
 track = "main"
 short_description = "Como um falso médico e um falso paciente comprometeram a segurança física e lógica de um hospital privado."
 summary = "Igor Marcel apresenta um caso real de simulação de adversário em que a equipe conseguiu burlar controles físicos, acessar áreas restritas, instalar dispositivos maliciosos e explorar falhas humanas em um hospital privado."
-logo = "/images/speakers/igor-marcel.png"
 weight = 1
 +++
 
