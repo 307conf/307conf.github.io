@@ -1,6 +1,6 @@
 +++
 title = 'Digital Investigation Village'
-location = "A definir sala"
+location = "Sala 332"
 logo = "/images/villages/div.png"
 weight = 2
 track = "Digital Investigation Village"
