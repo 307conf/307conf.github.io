@@ -5,7 +5,7 @@ authors = ["thiago-jose-lucas"]
 track = "main"
 short_description = "Como técnicas de pruning e diversidade melhoram IDS com menor custo computacional e maior taxa de acertos."
 summary = "Thiago José Lucas apresenta os resultados de pesquisas do LARS/UNESP sobre detecção de intrusão usando ensemble learning e pruning, mostrando como otimizar IDS com alta precisão e baixo custo."
-weight = 1
+slides = "/slides/otimizando-a-deteccao-de-ciberataques-com-ensemble-learning.pdf"
 +++
 
 Desde 2018, Thiago José Lucas atua no LARS — o Laboratório Avançado em Segurança de Redes da UNESP — conduzindo pesquisas em detecção de intrusão apoiadas por técnicas de Machine Learning. O laboratório, vinculado ao CNPq, desenvolve estudos envolvendo análise de tráfego de rede e dump de memória RAM para identificar ataques com maior precisão.

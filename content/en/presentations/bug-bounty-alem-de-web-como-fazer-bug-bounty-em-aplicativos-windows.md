@@ -5,7 +5,7 @@ authors = ["giuliano-sanfins"]
 track = "main"
 short_description = "How to identify vulnerabilities in Windows applications and explore an environment rarely used by bug bounty hunters."
 summary = "Giuliano Sanfins shares real vulnerabilities found in Windows applications via bug bounty programs and shows how to analyze protocols, AppServices, COM, Named Pipes, and other fundamentals that underpin the Windows ecosystem."
-weight = 1
+slides = "/slides/bug-bounty-alem-de-web-como-fazer-bug-bounty-em-aplicativos-windows.pdf"
 +++
 
 When bug bounty comes up, the focus is usually on web applications and, at most, Android or iOS. But there is an environment that hardly gets attention: Windows applications. In this talk, Giuliano Sanfins covers the fundamentals that underpin Windows applications — protocols, AppServices, COM, Named Pipes, Symbolic Links, and other internal mechanisms — showing how these components become potential attack vectors.

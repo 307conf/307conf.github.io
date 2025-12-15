@@ -6,6 +6,7 @@ track = "main"
 short_description = "Analysis of persistent flaws in the Linux kernel CAN BCM protocol, practical exploitation, and challenges in the patching process."
 summary = "Anderson Nascimento shares his experience discovering and exploiting multiple vulnerabilities in the Linux kernel’s CAN BCM protocol, discussing persistent flaws, insecurity patterns, and limitations in the remediation process."
 weight = 1
+slides = "/slides/vulnerabilities-in-the-proc-component-of-the-can-bcm-protocol-in-the-linux-kernel.pdf"
 +++
 
 In 2020, Anderson Nascimento began researching the CAN BCM protocol in the Linux kernel while developing an exploit for a use-after-free read vulnerability. Although fixed upstream, the flaw still affected recent versions of several Linux distributions, revealing significant gaps in the ecosystem’s patching process. His exploit demonstrated the severity of the issue by allowing an unprivileged user to access privileged files and read memory addresses from arbitrary processes.

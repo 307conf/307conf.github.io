@@ -5,7 +5,7 @@ authors = ["otavio-meneghesso"]
 track = "main"
 short_description = "How malware abuses public obfuscators, illustrated through the FULLMETAL case and an in-depth look at PyArmor’s internals and tooling."
 summary = "Otavio Meneghesso presents a technical study on how malware families leverage public obfuscators, focusing on the FULLMETAL case and on his contributions to the Pyarmor-Tooling project."
-weight = 3
+slides = "/slides/a-case-study-of-fullmetals-pyarmor-usage.pdf"
 +++
 
 This presentation by Otavio Meneghesso examines how malware families take advantage of public obfuscators, using the FULLMETAL campaign — named and reverse-engineered by him — as a case study.
