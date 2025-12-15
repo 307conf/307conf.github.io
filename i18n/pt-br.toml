@@ -31,6 +31,12 @@ other = "Saiba Mais"
 [viewSlides]
 other = "Ver slides"
 
+[slidesLabel]
+other = "Slides"
+
+[slidesUnavailable]
+other = "Indisponível"
+
 [builtUsing]
 other = "Feito usando"
 
