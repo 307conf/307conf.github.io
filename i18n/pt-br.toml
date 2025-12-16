@@ -37,6 +37,15 @@ other = "Slides"
 [slidesUnavailable]
 other = "Indisponível"
 
+[videoLabel]
+other = "Vídeo"
+
+[viewVideo]
+other = "Assistir vídeo"
+
+[videoUnavailable]
+other = "Indisponível"
+
 [builtUsing]
 other = "Feito usando"
 
