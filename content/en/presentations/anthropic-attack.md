@@ -3,11 +3,11 @@ title = "Anthropic Attack"
 date = 2025-12-14T10:50:00-03:00
 authors = ["carlos-alcocer"]
 track = "AI Village"
-short_description = "Ataques e abusos direcionados a modelos de IA generativa."
-summary = "Carlos Alcocer explora ataques contra modelos de IA generativa, analisando falhas, abusos e impactos em sistemas baseados em LLMs."
-weight = 2
+short_description = "Attacks, evasions, and security challenges targeting Anthropic language models."
+summary = "Carlos Alcocer explores attacks and vulnerabilities targeting Anthropic AI models, analyzing evasion techniques, countermeasures, and how red teams challenge responsible AI systems."
+video_url = "https://www.youtube.com/live/5GRQHp-Jujg?si=NRNIvmjb3ZXhlh88"
 +++
 
-A palestra aborda ataques direcionados a modelos de IA generativa, explorando como falhas de alinhamento, validação e controle podem ser abusadas por atacantes.
+This talk explores attacks and vulnerabilities specifically targeting Artificial Intelligence models developed by Anthropic, such as the **Claude** family. The session examines how these systems can be abused through evasion techniques, prompt manipulation, and unexpected model behaviors.
 
-A sessão discute cenários reais de exploração, impactos práticos e os desafios de proteger sistemas baseados em modelos antropomórficos e de linguagem natural.
+Countermeasures and security best practices required to ensure the integrity, reliability, and safety of these language models are discussed. The presentation offers a critical perspective on how *Red Teams* challenge the defenses of one of the leading companies in responsible AI, highlighting real-world risks and practical lessons for securing LLM-based systems.

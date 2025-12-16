@@ -1,11 +1,13 @@
 +++
-title = "Intelligent Tabletops for Intelligent Threats"
-date = 2025-12-14T16:00:00-03:00
+title = "Smart Tabletop Exercises for Smart Threats: Incident Response Scenarios Involving AI"
+date = 2025-12-14T11:40:00-03:00
 authors = ["aleida-lafuente"]
 track = "AI Village"
-short_description = "Incident response exercises involving AI-based threats."
-summary = "Aleida Lafuente presents ideas for tabletop exercises aimed at incidents involving Artificial Intelligence."
-weight = 6
+short_description = "How to design and run tabletop exercises focused on AI-related security incidents."
+summary = "Aleida Lafuente presents methodologies for creating tabletop exercises focused on Artificial Intelligence incidents, simulating attacks and algorithmic failures to prepare teams for emerging risks."
+video_url = "https://www.youtube.com/live/xQFYfmghCys?si=EA07533G8-RSm50F"
 +++
 
-As AI-based threats become more sophisticated, our incident response strategies must evolve. This talk explores how to design and run 'intelligent' tabletop exercises that simulate attacks against and with AI. We will discuss scenarios, objectives, and how to prepare your team to face the next generation of intelligent threats.
+This talk proposes the design and execution of *tabletop exercises* (TTEs) focused on security incident scenarios involving Artificial Intelligence systems. The session explores how traditional incident response exercises can be adapted to include AI-specific threats, such as algorithmic failures, automated decision risks, and intelligent adversarial behavior.
+
+Innovative methodologies are presented to simulate attacks, unexpected model behaviors, and emerging risk scenarios, enabling both technical and executive teams to test processes, communication, and decision-making. The goal is to help organizations assess resilience and improve preparedness against intelligent, AI-driven threats.

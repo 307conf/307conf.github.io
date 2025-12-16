@@ -1,13 +1,13 @@
 +++
-title = "Security in Machine Learning: From Traditional Models to Large Language Models"
+title = "Segurança em Machine Learning: Dos Modelos Tradicionais aos Large Language Models"
 date = 2025-12-14T10:00:00-03:00
-authors = ["erikson"]
+authors = ["erikson-julio-de-aguiar"]
 track = "AI Village"
-short_description = "Evolução dos riscos e ameaças em Machine Learning, dos modelos tradicionais aos LLMs."
-summary = "Erikson apresenta como a superfície de ataque em Machine Learning evoluiu dos modelos clássicos até os Large Language Models, discutindo riscos, vetores de ataque e desafios de segurança."
-weight = 1
+short_description = "Detecção e compreensão de ataques contra modelos de machine learning, dos modelos clássicos aos LLMs."
+summary = "Erikson Júlio de Aguiar apresenta como ataques contra modelos de machine learning ocorrem e como ferramentas como o RADAR-MIX ajudam a detectar, analisar e compreender essas ameaças, especialmente em domínios sensíveis como a IA aplicada à saúde."
+video_url = "https://www.youtube.com/live/lQz6038calQ?si=Dwbu2PfTLQA6Q3XT"
 +++
 
-Nesta palestra, Erikson aborda a segurança em Machine Learning a partir de uma perspectiva evolutiva, conectando ameaças conhecidas em modelos tradicionais aos novos riscos introduzidos pelos Large Language Models (LLMs).
+Esta palestra explora o panorama de segurança de sistemas de Machine Learning, desde modelos tradicionais até Large Language Models (LLMs). A apresentação foca em como ataques adversariais se manifestam, onde eles ocorrem ao longo do pipeline de ML e por que compreender esses vetores é fundamental para manter sistemas confiáveis.
 
-A sessão explora vetores de ataque, falhas de design e desafios emergentes, oferecendo uma visão clara de como a segurança em IA precisa se adaptar frente à complexidade crescente desses sistemas.
+A sessão apresenta o **RADAR-MIX**, uma ferramenta desenvolvida para não apenas detectar ataques contra modelos de ML, mas também oferecer visibilidade sobre como e onde esses ataques acontecem. A discussão destaca a importância da robustez e da segurança em aplicações de alto impacto, especialmente em diagnósticos médicos, onde falhas podem gerar consequências reais e significativas.
